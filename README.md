@@ -8,6 +8,7 @@
 * [About.](#about)
 * [Documentation.](#documentation)
 * [General.](#general)
+* [Mockito Annotations.]()
 * [Mocks. A fake implementation of a class used for testing.](#mocks-a-fake-implementation-of-a-class-used-for-testing)
 * [Spy - Like a mock, but real object is used.](#spy---like-a-mock-but-real-object-is-used)
 * [Help.](#help)
