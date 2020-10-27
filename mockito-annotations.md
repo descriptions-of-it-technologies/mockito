@@ -30,10 +30,12 @@
 
 | Annotation                      | Description                                                                                |
 | ------------------------------- | ------------------------------------------------------------------------------------------ |
-| @Mock                           |                                                                                            |
+| @Mock                           | Used to create mock.                                                                       |
 | @MockBean                       |                                                                                            |
-| @Spy                            |                                                                                            |
+| @Spy                            | Used to create spy.                                                                        |
 | @SpyBean                        |                                                                                            |
+| @InjectMocks                    | Creates an instance of the class and injects the mocks that are created with the @Mock (or @Spy) annotations into this instance. |
+| @Captor                         | Captures arguments to Mock.                                                                |
 |                                 |                                                                                            |
 
 
